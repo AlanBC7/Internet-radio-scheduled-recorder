@@ -1,0 +1,1 @@
+streamripper http://209.203.124.194:8000 -a -A -d /home/pi/Pods -l 14400
